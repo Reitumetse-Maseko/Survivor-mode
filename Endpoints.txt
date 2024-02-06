@@ -1,0 +1,21 @@
+Endpoints
+
+1. Get all Survivors
+URL: /
+Method: GET
+Description: Retrieve a list of all survivors.
+
+2. Get Survivor by ID
+URL: /{id}
+Method: GET
+Description: Retrieve details of a specific survivor by ID.
+
+3. Post Create Survivor
+URL: /
+Method: POST
+Description: Create a new survivor.
+
+4. Delete Survivor by ID
+URL: /{id}
+Method: DELETE
+Description: Delete a specific survivor by ID.
