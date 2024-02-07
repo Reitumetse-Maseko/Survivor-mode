@@ -6,7 +6,7 @@ Java Development Kit (JDK)
 PostgresSQL / Maven
 
 2.CLONE THE REPOSITORY
-git clone https://github.com/your-username/survivor-mode-api.git
+git clone https://github.com/reitumetse-maseko/survivor-mode-api.git
 cd survivor-mode-api
 
 3.DATABASE NAME MUST MATCH WITH DATABASE ADMIN
